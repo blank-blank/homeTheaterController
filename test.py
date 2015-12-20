@@ -1,0 +1,3 @@
+import cec
+
+cec.init()
